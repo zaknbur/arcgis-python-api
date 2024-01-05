@@ -1,7 +1,8 @@
 repo_name: zaknbur/arcgis-python-api
 report_id: 99637e8da83507fd61f638b00a2e46de
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:34:10+00:00'
+timestamp: '2024-01-05T08:35:05+00:00'
 requested_by: AtmaMani
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/zaknbur/arcgis-python-api
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zaknbur/arcgis-python-api
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/arcgis-python-api
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/arcgis-python-api
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -53,6 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/arcgis-python-api/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Rohit Singh
   last_updated_on: 2018-03-21 14:07:43.000000000 Z
@@ -62,6 +68,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/arcgis-python-api/blob/master/apidoc/0.1.0/_modules/arcgis/gis.html
   detection_source: apidoc/0.1.0/_modules/arcgis/gis.html
   last_updated_by: Atma Mani
   last_updated_on: 2020-12-14 22:26:37.000000000 Z
@@ -73,4 +80,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/zaknbur/arcgis-python-api
   detection_source: Repo Metadata
